@@ -1,8 +1,8 @@
 ---
-label: Bienvenido
+label: Welcome
 layout: page
 ---
-## Documentación Oficial de [Jonashosting](https://https://jonashosting.com)
+## This is the future home of [Jonashosting](https://https://jonashosting.com) technical documentation 
 !!!
-En fase de desarrollo
+Is a work in progress, stay tunned 
 !!!
