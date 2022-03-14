@@ -1,5 +1,5 @@
 # DNS Servers
-##Our dns servers for shared hosting and reseller plans are:
+## Our dns servers for shared hosting and reseller plans are:
 
 ns1.protectedserver.net 207.246.65.126\
 ns2.protectedserver.net 45.33.123.5\
