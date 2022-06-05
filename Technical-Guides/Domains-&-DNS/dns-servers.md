@@ -1,3 +1,8 @@
+---
+label: Remarkable Cloud DNS Servers
+order: 100
+tags: [DNS]
+---
 # DNS Servers
 ## For shared and resellers:
 
