@@ -1,8 +1,9 @@
 ---
 label: Welcome
 layout: page
+icon: home
 ---
-## This is the future home of [Jonashosting](https://https://jonashosting.com) technical documentation 
+## [RemarkableCloud](https://https://remarkablecloud.com) Documentation Site
 !!!
 Is a work in progress, stay tunned 
 !!!
