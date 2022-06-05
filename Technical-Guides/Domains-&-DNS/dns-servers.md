@@ -1,5 +1,5 @@
 ---
-label: Remarkable Cloud DNS Servers
+label: DNS Servers
 order: 100
 tags: [DNS]
 ---
