@@ -28,6 +28,7 @@ Domain names
 SSL Certificated
 Software Licenses
 Support fees 
+
 !!!
 Managed Cloud Servers & Bare Metal Managed Server have a 7 days Satisfaction Guarantee
 !!!
