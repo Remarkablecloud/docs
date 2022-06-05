@@ -1,4 +1,4 @@
-# How billing works
+# How Billing Works
 
 ## Prorata Billing
 
@@ -24,10 +24,10 @@ After 30 days from Due Day, the service will be automatically terminated
 
 Some services are protected by our 30 Days Money Back Guarantee, if you are not 100% satisfied with our service, we will refund your money during the first 30 days, some products, services, or addons are not eligible for money back:
 
-Domain names
-SSL Certificated
-Software Licenses
-Support fees 
+- Domain names
+- SSL Certificated
+- Software Licenses
+- Technical Support fees 
 
 !!!
 Managed Cloud Servers & Bare Metal Managed Server have a 7 days Satisfaction Guarantee
