@@ -1,3 +1,8 @@
+---
+label: How Billing Works
+order: 100
+tags: [Billing]
+---
 # How Billing Works
 
 ## Prorata Billing
